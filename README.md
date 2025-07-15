@@ -7,8 +7,8 @@ Tools: \
 [TIM Viewer] (https://www.romhacking.net/utilities/486/) \
 [Delta Patcher] (https://github.com/marco-calautti/DeltaPatcher)
 
-![WIP1](Screenshots/Screenshot_1.png)
-![WIP1](Screenshots/Screenshot_2.png)
-![WIP1](Screenshots/Screenshot_3.png)
-![WIP1](Screenshots/Screenshot_4.png)
-![WIP1](Screenshots/Screenshot_5.png)
+![WIP1](screenshots/screenshot_1.png)
+![WIP1](screenshots/screenshot_2.png)
+![WIP1](screenshots/screenshot_3.png)
+![WIP1](screenshots/screenshot_4.png)
+![WIP1](screenshots/screenshot_5.png)
