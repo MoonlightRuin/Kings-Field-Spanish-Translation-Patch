@@ -1,6 +1,6 @@
 # Información
 Juego: King's Field [SLPS-00017] \
-Traducción completa al español del juego exclusivo de Japón King's Field. \
+Traducción completa al español del juego exclusivo de Japón King's Field (1994) de FROMSOFTWARE. \
 La traducción está basada en el texto original con pocos elementos inspirados en la versión de Sword of Moonlight. \
 El parche está en formato xdelta y debe de ser aplicado a un archivo .bin del juego.
 # Instalación
