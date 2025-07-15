@@ -1,5 +1,6 @@
 # Kings-Field-Spanish-Translation-Patch
 Full Spanish translation patch for King's Field (1994) by FROMSOFTWARE. \
+The translation itself is based on the original text with small elements inspired by the Sword of Moonlight version of the game. \
 Patch is in xdelta format and should be applied to a .bin file of your game.
 
 Tools: \
